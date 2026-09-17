@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         IKEA TSP 담당자 알림
 // @namespace    fursys.cs
-// @version      2.0
+// @version      2.1
 // @description  TSP처리예정자가 본인인 건이 재확인요청 상태가 되면 알림
 // @match        https://csckms.net/*
 // @match        https://*.csckms.net/*
@@ -12,8 +12,8 @@
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
 // @run-at       document-idle
-// @downloadURL  https://github.com/sapar11/tsp-alert_HD/blob/main/TSP_Alert.user.js
-// @updateURL    https://github.com/sapar11/tsp-alert_HD/blob/main/TSP_Alert.user.js
+// @downloadURL  https://raw.githubusercontent.com/sapar11/tsp-alert_HD/main/TSP_Alert.user.js
+// @updateURL    https://raw.githubusercontent.com/sapar11/tsp-alert_HD/main/TSP_Alert.user.js
 // ==/UserScript==
 ``
 /*
