@@ -12,8 +12,8 @@
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
 // @run-at       document-idle
-// @downloadURL  https://iweof.sharepoint.com/teams/o365g_tsp_retkrcsc/Shared%20Documents/Manual/TSP_Alert.user.js
-// @updateURL    https://iweof.sharepoint.com/teams/o365g_tsp_retkrcsc/Shared%20Documents/Manual/TSP_Alert.user.js
+// @downloadURL  https://github.com/sapar11/tsp-alert_HD/blob/main/TSP_Alert.user.js
+// @updateURL    https://github.com/sapar11/tsp-alert_HD/blob/main/TSP_Alert.user.js
 // ==/UserScript==
 ``
 /*
